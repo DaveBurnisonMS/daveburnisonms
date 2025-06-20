@@ -24,6 +24,10 @@ I have worked in the software development industry my entire career. Having work
 
 ## Awards 🏅
 
-In 2024 Dave was awarded the [Microsoft Executive Briefing Center’s (EBC) Performance Excellence award](https://www.credly.com/badges/7a5b1361-8f26-41d5-8b76-15189717d7bc/public_url). The award winners for this category represent our best speakers based on feedback from customers, NSAT scores, and number of deliveries over the year. See http://aka.ms/DaveBurnison2024EBCAward 
+| Badge | Description |
+|----------|----------|
+| ![image](https://github.com/user-attachments/assets/d238810d-0e5a-4fc1-9a67-39c1ae257a44) | In 2022 Dave was awarded the[ Microsoft Executive Briefing Center’s (EBC) Distinguished Speaker award](https://www.credly.com/badges/4b33b5be-f559-4b92-8650-fe525621be84). Distinguished Speaker is the highest achievement Microsoft has at the EBC. This award recognizes speakers who embody all attributes of EBC and customer engagement best practices.  |
+| ![image](https://github.com/user-attachments/assets/54756717-a340-4849-9842-a2a59983e472) | In 2025 Dave was awarded the [Microsoft Executive Briefing Center’s (EBC) One Microsoft award](https://www.credly.com/badges/2c7808b7-4157-40e8-a624-16263835beca/public_url). This award recognizes speakers who step outside of their individual business, product, or technology area to demonstrate solutions across the platform. Your exceptional dedication shines through in your outstanding customer and engagement owner satisfaction scores, and number of deliveries.  |
+| ![image](https://github.com/user-attachments/assets/852b49db-2c8c-4842-95d9-07818088a934) | In 2024 Dave was awarded the [Microsoft Executive Briefing Center’s (EBC) Performance Excellence award](https://www.credly.com/badges/7a5b1361-8f26-41d5-8b76-15189717d7bc/public_url). The award winners for this category represent our best speakers based on feedback from customers, NSAT scores, and number of deliveries over the year.  |
 
-In 2022 Dave was awarded the[ Microsoft Executive Briefing Center’s (EBC) Distinguished Speaker award](https://www.credly.com/badges/4b33b5be-f559-4b92-8650-fe525621be84). Distinguished Speaker is the highest achievement Microsoft has at the EBC. This award recognizes speakers who embody all attributes of EBC and customer engagement best practices. See http://aka.ms/DaveBurnison2022EBCAward 
+
