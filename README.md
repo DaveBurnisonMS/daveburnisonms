@@ -32,11 +32,9 @@ I have worked in the software development industry my entire career. Having work
 | <img src="https://github.com/user-attachments/assets/852b49db-2c8c-4842-95d9-07818088a934" height="500"> | In 2024 Dave was awarded the [Microsoft Executive Briefing Center’s (EBC) Performance Excellence award](https://www.credly.com/badges/7a5b1361-8f26-41d5-8b76-15189717d7bc/public_url). The award winners for this category represent our best speakers based on feedback from customers, NSAT scores, and number of deliveries over the year. |
 
 # Check out the GitHub Monthly Enterprise Roundup (MER)
-GitHub is shipping new features, product updates, and best practices faster than ever. To help you stay ahead, the GitHub Enterprise Advocacy team curates a monthly roundup — bringing you a concise, enterprise-focused summary of the most important updates you might have missed.
+GitHub is shipping new features, product updates, and best practices faster than ever. To help you keep up with all our releases, previews, videos, whitepapers, new documentation, etc. check out our **Monthly Enterprise Roundup (MER)**. Our goal with the **MER** is provide one source for discovering everything that is new from an enterprise perspective. Want to get notified of when the next **MER** is available? Go to **GitHub Enterprise** on **LinkedIn** and click on the "Follow" button. 
 
-In these posts, you’ll find a carefully selected list of key innovations, expert insights, and must-know resources—guided by feedback from GitHub’s largest customers—to help your team innovate faster, boost productivity and enhance security.
-
-Share with your teams and stakeholders so they can also get the most out of their GitHub experience. 
+Share this with your teams and stakeholders so they can also get the most out of their GitHub experience. 
 
 | GitHub Monthly Enterprise Roundup (MER) |          | Follow **GitHub Enterprise** on **LinkedIn** to be notified of each new post |
 |---------|---------|---------|
