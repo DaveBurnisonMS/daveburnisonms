@@ -14,7 +14,7 @@ I have worked in the software development industry my entire career. Having work
 ## Past Events 🗣️
 
 ### Microsoft Build 2026
-+ [Azure DevOps meets GitHub, the path to AI powered SDLC](https://build.microsoft.com/en-US/sessions/BRK202) 2026-06-03 - Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained. (Co-presented with [Dan Hellem | LinkedIn](https://www.linkedin.com/in/danhellem/))
++ [Azure DevOps meets GitHub, the path to AI powered SDLC](https://build.microsoft.com/en-US/sessions/BRK202) 2026-06-03 - Azure DevOps and GitHub are better together—and the integration keeps getting smarter. In this demo-heavy session, you’ll see how hybrid patterns that connect GitHub with Azure Boards and Azure Pipelines enable Agentic DevOps. See the all of the newest AI-powered capabilities in Azure DevOps. Plus, hear how Microsoft's engineering teams adopted this approach and what they gained. (Co-presented with [Dan Hellem | LinkedIn](https://www.linkedin.com/in/danhellem/)) For related resources see https://aka.ms/build26/BRK202
 
 
 ### Microsoft Ignite 2025 
