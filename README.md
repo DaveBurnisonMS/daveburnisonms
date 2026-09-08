@@ -11,6 +11,10 @@ I am a **Senior DevOps Advocate** on the **GitHub Enterprise Advocates Team**. I
 
 The vast majority of my time is spent keeping up with all of the latest and greatest from GitHub, GitHub Copilot and Azure DevOps (from a product perspective). But my role is not just about delivering product demos, it is to be a **trusted advisor**. My strength is my view and knowledge of the overall software development lifecycle paired with technical skills which allow me to manage DevOps culture, processes & tools that enable software development teams to become as innovative, efficient and productive as possible. So, it's not just about "Look at this new shiny GitHub Copilot feature" but, also "Here is how to prepare and enable your software development teams to achieve better outcomes for your stakeholders".
 
+## Base 2 Space, September 27th 🚶🏻‍♂️‍➡️🪜
+Please consider donating to the Fred Hutch Cancer Research through the Space Needle Foundation to support my [**Base 2 Space** climb of the 832 stairs at the **Seattle Space Needle**](./Base2Space2026.md).
+
+
 ## Past Events 🗣️
 
 ### Microsoft Build 2026
