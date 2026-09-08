@@ -2,6 +2,9 @@
 
 #### What does this mean for your organization? If you setup a secure, efficient, robust, resilient assembly line you will innovate faster than your competition!
 
+# Base 2 Space, September 27th 🚶🏻‍♂️‍➡️🪜
+Please consider donating to the Fred Hutch Cancer Research through the Space Needle Foundation to support my [**Base 2 Space** climb of the 832 stairs at the **Seattle Space Needle** on Sunday, September 27th](./Base2Space2026.md).
+
 # About Me 🙋🏻‍♂️
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40daveburnisonms-239a3b.svg)](https://github.com/daveburnisonms)
@@ -10,10 +13,6 @@
 I am a **Senior DevOps Advocate** on the **GitHub Enterprise Advocates Team**. I am is very passionate about DevOps and application modernization. I am a link between the product group and customers and I have led executive briefings with leaders from 100’s of GitHub’s enterprise customers. I joined Microsoft in January 2016 and moved over to GitHub in 2020. I have spent time as a consultant and in technical sales prior to joining the product group. I have been focused on DevOps the entire time.
 
 The vast majority of my time is spent keeping up with all of the latest and greatest from GitHub, GitHub Copilot and Azure DevOps (from a product perspective). But my role is not just about delivering product demos, it is to be a **trusted advisor**. My strength is my view and knowledge of the overall software development lifecycle paired with technical skills which allow me to manage DevOps culture, processes & tools that enable software development teams to become as innovative, efficient and productive as possible. So, it's not just about "Look at this new shiny GitHub Copilot feature" but, also "Here is how to prepare and enable your software development teams to achieve better outcomes for your stakeholders".
-
-## Base 2 Space, September 27th 🚶🏻‍♂️‍➡️🪜
-Please consider donating to the Fred Hutch Cancer Research through the Space Needle Foundation to support my [**Base 2 Space** climb of the 832 stairs at the **Seattle Space Needle**](./Base2Space2026.md).
-
 
 ## Past Events 🗣️
 
