@@ -3,7 +3,7 @@
 #### What does this mean for your organization? If you setup a secure, efficient, robust, resilient assembly line you will innovate faster than your competition!
 
 # Base 2 Space, September 27th 🚶🏻‍♂️‍➡️🪜
-Please consider donating to the Fred Hutch Cancer Research through the Space Needle Foundation to support my [**Base 2 Space** climb of the 832 stairs at the **Seattle Space Needle** on Sunday, September 27th](./Base2Space2026.md).
+Please consider donating to Fred Hutch Cancer Research through the Space Needle Foundation to support my [**Base 2 Space** climb of the 832 stairs at the **Seattle Space Needle** on Sunday, September 27th](./Base2Space2026.md).
 
 # About Me 🙋🏻‍♂️
 
