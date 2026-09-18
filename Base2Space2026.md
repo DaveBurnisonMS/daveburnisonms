@@ -22,4 +22,6 @@ This stair case has 4 flights and 95 stairs. So, I climbed this stair case 10 ti
 This stair case is part of a section of local trails that has quite a few stairs and a decent amount of incline. So, I climbed that section of the trail 7 times in a row adding up to 750 feet of elevation gain.
 | <img width="378" height="504" alt="IMG_5678" src="https://github.com/user-attachments/assets/6ab09b44-9738-4a28-90f3-a6b1b6c0bfe0" /> | <img width="378" height="504" alt="IMG_5690" src="https://github.com/user-attachments/assets/85973401-04f3-495b-bec0-60f2430036ea" /> |
 |---------|---------|
-| <img width="378" alt="IMG_5691" src="https://github.com/user-attachments/assets/1bba3b36-1667-4965-9d85-317ad8d59f74" /> | <img width="378" alt="IMG_5692" src="https://github.com/user-attachments/assets/4fff62a7-127b-4e36-a2c5-64366801cc9a" /> |
+| <img width="378" alt="IMG_5691" src="https://github.com/user-attachments/assets/f7ed7581-15e3-4664-bff5-5edf5694a76e" /> | <img width="378" alt="IMG_5692" src="https://github.com/user-attachments/assets/4fff62a7-127b-4e36-a2c5-64366801cc9a" /> |
+
+
