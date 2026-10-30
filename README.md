@@ -49,10 +49,6 @@ GitHub is shipping new features, product updates, and best practices faster than
 
 Share this with your teams and stakeholders so they can also get the most out of their GitHub experience. 
 
-| GitHub Monthly Enterprise Roundup (MER) |          | Follow **GitHub Enterprise** on **LinkedIn** to be notified of each new post |
-|---------|---------|---------|
-| <a href="https://gh.io/mer"><img src="./images/gh_io_mer.png" width="500" height="500"></a> |          | <a href="https://gh.io/lighe"><img src="./images/gh_io_lighe.png" width="500" height="500"></a> |
-
 | GitHub Monthly Enterprise Roundup (MER) |
 |---------|
 | <a href="https://gh.io/mer"><img src="./images/gh_io_mer.png" width="500" height="500"></a> |
